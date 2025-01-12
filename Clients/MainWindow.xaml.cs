@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,10 +12,14 @@ namespace Clients
         private TcpClient client;
         private NetworkStream stream;
         private bool isConnected = false;
+        private string _ipAddress;
+        private int _port;
 
-        public MainWindow()
+        public MainWindow(string IpAddress, int Port)
         {
             InitializeComponent();
+            _ipAddress = IpAddress;
+            _port = Port;
         }
 
         private async void ConnectToServer(string server, int port)
@@ -58,7 +63,7 @@ namespace Clients
         {
             if (!isConnected)
             {
-                ConnectToServer("127.0.0.1", 13000);
+                ConnectToServer(_ipAddress, _port);
                 return;
             }
 

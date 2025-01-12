@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Release\
 Clients
 none
 false
-DEBUG;TRACE
+TRACE
 D:\FPT\Semester 7\PRN222\Client\Clients\App.xaml
 2338728114
 
-7-1547931422
+6534157196
 13-1310406943
 MainWindow.xaml;Menu.xaml;
 

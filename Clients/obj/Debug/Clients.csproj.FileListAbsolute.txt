@@ -13,3 +13,20 @@ D:\PRN222\Clients\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
 D:\PRN222\Clients\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
 D:\PRN222\Clients\Clients\obj\Debug\Clients.exe
 D:\PRN222\Clients\Clients\obj\Debug\Clients.pdb
+D:\FPT\Semester 7\PRN222\Client\Clients\bin\Debug\Clients.exe.config
+D:\FPT\Semester 7\PRN222\Client\Clients\bin\Debug\Clients.exe
+D:\FPT\Semester 7\PRN222\Client\Clients\bin\Debug\Clients.pdb
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.csproj.AssemblyReference.cache
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\MainWindow.g.cs
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Menu.g.cs
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\App.g.cs
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients_MarkupCompile.cache
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients_MarkupCompile.lref
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\MainWindow.baml
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Menu.baml
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.g.resources
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.Properties.Resources.resources
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.exe
+D:\FPT\Semester 7\PRN222\Client\Clients\obj\Debug\Clients.pdb
