@@ -20,6 +20,7 @@ namespace Clients
             InitializeComponent();
             _ipAddress = IpAddress;
             _port = Port;
+            Task.Run(() => ConnectToServer(_ipAddress, _port));
         }
 
         private async void ConnectToServer(string server, int port)
