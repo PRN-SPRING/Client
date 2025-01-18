@@ -8,7 +8,8 @@
         Title="Chat Client" Height="450" Width="800">
     <Grid>
         <ListBox Name="MessageList" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,10,10,50" />
-        <TextBox Name="MessageInput" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Margin="10,10,110,10" Height="30"/>
-        <Button Content="Send" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10,10,10,10" Width="100" Click="SendButton_Click"/>
+        <TextBox Name="MessageInput" VerticalAlignment="Bottom" Margin="10,0,110,10" Height="30"/>
+        <Button Content="Send message" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,10" Width="100" Click="SendButton_Click"/>
+        <Button Content="Upload File" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,52" Width="100" Click="UploadFile_Click"/>
     </Grid>
 </Window>
